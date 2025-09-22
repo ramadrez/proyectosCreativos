@@ -45,7 +45,7 @@ Puede observar el manual de marca en el archivo: "Manual de marca (Diseño).pdf"
 
 - **Objetivo:** Brindar presencia digital a una institución académica mediante el desarrollo de un portal informativo en WordPress. El sitio incluye secciones de contacto y un blog para la publicación de noticias, facilitando la comunicación con estudiantes y visitantes. Este proyecto fue realizado como parte de una iniciativa universitaria, permitiéndome aplicar y fortalecer habilidades en diseño web, gestión de contenido y tecnologías digitales.
 
-<img src="https://imgur.com/5B7JvpL.png" width="600">
+<img src="https://imgur.com/5B7JvpL.png">
 
 ### Características y Funcionalidades
 
